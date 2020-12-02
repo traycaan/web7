@@ -1,0 +1,9 @@
+﻿{
+  "name": "Tactical Weapon Pack",
+  "short_name": "Tactical Weapon Pack",
+  "start_url": "/?home=true",
+  "theme_color": "#000000",
+  "background_color": "#000000",
+  "display": "browser",
+  "orientation": "landscape"
+}
